@@ -1,0 +1,9 @@
+C:\Users\D3luxe\Desktop\C# Learning\C#\Bronze\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe.config
+C:\Users\D3luxe\Desktop\C# Learning\C#\Bronze\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+C:\Users\D3luxe\Desktop\C# Learning\C#\Bronze\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+C:\Users\D3luxe\Desktop\C# Learning\C#\Bronze\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csprojResolveAssemblyReference.cache
+C:\Users\D3luxe\Desktop\C# Learning\C#\Bronze\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Properties.Resources.resources
+C:\Users\D3luxe\Desktop\C# Learning\C#\Bronze\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.Spanzuratoarea.resources
+C:\Users\D3luxe\Desktop\C# Learning\C#\Bronze\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.csproj.GenerateResource.Cache
+C:\Users\D3luxe\Desktop\C# Learning\C#\Bronze\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.exe
+C:\Users\D3luxe\Desktop\C# Learning\C#\Bronze\Spanzuratoare\Spanzuratoare\obj\Debug\Spanzuratoare.pdb

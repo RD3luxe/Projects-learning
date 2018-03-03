@@ -1,0 +1,7 @@
+Data : 03.02.2017 12:21:28 | Puncte : 1023 | Timp : 0 min si 37 sec | Nume lista terminata : Lista1.txt |
+Data : 03.02.2017 12:31:18 | Puncte : 1023 | Timp : 0 min si 27 sec | Nume lista terminata : Lista1.txt |
+Data : 03.02.2017 12:35:31 | Puncte : 1023 | Timp : 0 min si 35 sec | Nume lista terminata : Lista1.txt |
+Data : 03.02.2017 15:25:20 | Puncte : 100 | Timp : 13 min si 52 sec | Nume lista terminata : Lista1.txt |
+Data : 2/5/2017 9:45:08 AM | Puncte : 100 | Timp : 13 min si 42 sec | Nume lista terminata : Lista1.txt |
+Data : 2/8/2017 8:03:25 AM | Puncte : 100 | Timp : 13 min si 47 sec | Nume lista terminata : Lista1.txt |
+Data : 2/12/2017 7:23:15 PM | Puncte : 100 | Timp : 12 min si 32 sec | Nume lista terminata : Lista1.txt |

@@ -1,0 +1,8 @@
+15;3;0
+Unul dintre cele mai folosite limbaje?;JAVA;3;10
+Matematician celebru.;EUCLID;5;15
+Teoria ...;RELATIVITATII;7;30
+Adam si ... au fost primii oameni.;EVA;3;15
+C# a fost dezvoltat de ...?;MICROSOFT;6;30
+Parintele limbajului C este Dennis ...?;RITCHI;4;10
+Cel mai enervant sentiment este ...?;IUBIREA;5;1
