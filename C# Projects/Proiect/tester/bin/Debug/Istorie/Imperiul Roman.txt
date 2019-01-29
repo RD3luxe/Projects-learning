@@ -1,0 +1,11 @@
+2;0;0
+Ce civilizatie a precedat Imperiul Roman?; Regatul Romei;Republica Romana;Imparatia Italiana;Republica Francia;Republica Romana;10;1
+In ce an a fost creat Imperiul Roman? 27;54;71;108;27;10;1
+Sub domnia carui Imparat a ajuns Imperiul la maxima sa teritoriala?; Caligula;Traian;Nero;Constantin;Traian;10;1
+In ce an a ajuns Imperiul la maxima sa teritoriala?; 201;112;117;80;117;10;1
+In ce an a fost Crestinismul declarat religia oficiala?; 1882-1885;1870-1872;1877-1878;1888-1890;1877-1878;10;1
+In ce an a fost Caligula asasinat?; 41;44;50;49;41;10;1
+In ce an s-a separat Imperiul Roman in cel de Est si Vest?; 280;271;303;285;285;10;1
+Cum a mai fost numit Imperiul Roman de est?; Grec;Otoman;Bizantin;Persan;Bizantin;10;1
+In ce an a cazut Imperiul Roman de est?; 1451;1453;1454;1450;1453;10;1
+Care a fost ultimul imparat al Imperiului Roman de Est?; Augustus IV;Iulius XII;Constantin XI;Iulius XIV;Constantin XI;10;1

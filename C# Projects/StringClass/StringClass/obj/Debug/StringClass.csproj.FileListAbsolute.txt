@@ -1,0 +1,6 @@
+C:\Users\D3luxe\Desktop\C# Learning\StringClass\StringClass\bin\Debug\StringClass.exe.config
+C:\Users\D3luxe\Desktop\C# Learning\StringClass\StringClass\bin\Debug\StringClass.exe
+C:\Users\D3luxe\Desktop\C# Learning\StringClass\StringClass\bin\Debug\StringClass.pdb
+C:\Users\D3luxe\Desktop\C# Learning\StringClass\StringClass\obj\Debug\StringClass.csprojResolveAssemblyReference.cache
+C:\Users\D3luxe\Desktop\C# Learning\StringClass\StringClass\obj\Debug\StringClass.exe
+C:\Users\D3luxe\Desktop\C# Learning\StringClass\StringClass\obj\Debug\StringClass.pdb

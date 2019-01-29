@@ -1,0 +1,12 @@
+2;0;0
+Care tara nu facea parte din Tripla Alianta?; Rusia;Austro-Ungaria;Germania;Italia;Rusia;10;1
+Primul Razboi Mondial a inceput cu asasinarea Arhiducelui _____; Sergei Hunera;Samuel Lemar;Adolf Hitler;Franz Ferdinand;Franz Ferdinand;10;1
+Ce vapor britanic a fost scufundat in 1915?; Titanic;Sydney;Lusitania;Olympic;Lusitania;10;1
+Cine a fost ministrul de externe al Germaniei in 1916-1917?; Walter Zimmermann;Jakob Zimmerman;Arthur Zimmermann;Edmund Zimmermann;Arthur Zimmermann;10;1
+Cine a fost presedintele SUA la inceputul Primului Razboi Mondial?; Wilson;F. Roosevelt;Truman;Coolidge;Wilson;10;1
+Ce inseamna termenul "Blitzkrieg"?; Razboi Fulger;Forte Combinate;Razboi Mecanic;Tancuri Panzer;Razboi Fulger;10;1
+Numele de cod al debarcarii aliate in Normandia?; Operatia Bismark;Operatia Debarkation;Operatia Overlord;Operatia Market Garden;Operatia Overlord;10;1
+Ce tara a suferit cele mai multe morti cetatenesti?; Germania;URSS;Polonia;Japonia;URSS;10;1
+Unde a avut loc semnarea tratatului Japonez de predare?; Un metrou din Osaka;Casa Parlamentului din Tokyo;la bordul USS Missouri;Centrul de Razboi din Londra;la bordul USS Missouri;10;1
+In ce an a avut loc atacul de la Pearl Harbor?; 1942;1941;1940;1939;1941;10;1
+1,49,17;0

@@ -1,0 +1,14 @@
+Istorie;Geografie;Divertisment;Stiinta;Tehnologie
+0;Istoria Romaniei.txt
+0;Imperiul Roman.txt
+0;Razboaiele Mondiale.txt
+0;Renasterea.txt
+0;Colonizarea Americii.txt
+1;Capitale.txt
+1;Uniunea Europeana.txt
+1;Regiuni ale Lumii.txt
+1;Relief Montan.txt
+1;Relief Acvatic.txt
+2;Test Intrebari.txt
+3;Test Intrebari.txt
+4;Test Intrebari.txt

@@ -1,0 +1,11 @@
+2;0;0;
+In ce lant muntos se gaseste Muntele Everest?; Himalaya;Anzi;Alpii;Carpati;Himalaya;10;1
+Varful K2 se gaseste in ce lant muntos?; Kamchatka;Himalaya;Anzii;Apalasi;Himalaya;10;1
+Muntii Atlas se intand pe teritoriul carei tari din cele mentionate?; Moroco;Australia;Austria;Egipt;Moroco;10;1
+Muntele Sinai se gaseste in ce tara?; India;Egipt;China;Sudan;Egipt;10;1
+Unde se gaseste Muntele Sf. Elena?; Suedia;Norvegia;Washington;Ontario;Washington;10;1
+Pe ce continent se gaseste Mt. Kilimanjaro?; Asia;Europa;America de Sud;Africa;Africa;10;1
+Muntii Ural reprezinta granita din Asia si?; Europa;Africa;Alaska;Arabia;Europa;10;1
+Mt. Cook se gaseste in ce tara?; Anglia;Italia;Noua Zeelanda;Brazilia;Noua Zeelanda;10;1
+In Grecia se gaseste faimosul munte:; Matterhorn;Olimp;Vezuviu;Kilimanjaro;Olimp;10;1
+Mont Blanc este un varf din muntii:; Carpati;Himalaya;Alpi;Pirinei;Alpi;10;1

@@ -1,0 +1,12 @@
+2;0;0
+Cand a avut loc Razboiul de Independenta?; 1882-1885;1870-1872;1877-1878;1888-1890;1877-1878;10;1
+Unde a fost construit Podul lui Traian?; Drobeta Turnu-Severin;Constanta;Craiova;Rosiorii de Vede;Drobeta Turnu-Severin;10;1
+Mihai Viteazul a fost domnitorul carui stat medieval?; Tara Romaneasca;Moldova;Transilvania;Bucovina;Tara Romaneasca;10;0
+In ce an a devenit Vlad Tepes dominitorul Valahiei?; 1446;1436;1454;1429;1436;10;1
+Cat a durat domnia lui Carol I?; 51;48;43;45;48;10;1
+Republica Populara Romana a fost numele adoptat in anul?; 1947;1944;1951;1945;1947;10;1
+Romania s-a alaturat carei aliante in Primul Razboi Mondial?; Puterile Centrale;Antanta;Axis;NATO;Antanta;10;1
+Care a fost capitala provinciei romane Dacia?; Sarmisegetuza;Drobeta;Traiana;Romanorum;Sarmisegetuza;10;1
+Cand a avut loc batalia de la Podul Inalt?; 1480;1471;1475;1483;1475;10;1
+Care este cel mai celebru domnitor al Moldovei?; Stefan cel Mare;Mihai Viteazul;Iancu de Hunedoara;Matei Corvin;Stefan cel Mare;10;1
+1,38,46;0

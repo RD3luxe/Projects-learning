@@ -1,0 +1,4 @@
+﻿  Intalnire.cpp
+f:\programe dev\resources\programming_learning\c++\calendar\calendar\intalnire.cpp(215): warning C4172: returning address of local variable or temporary: temp
+f:\programe dev\resources\programming_learning\c++\calendar\calendar\intalnire.cpp(228): warning C4172: returning address of local variable or temporary: temp
+  Calendar.vcxproj -> F:\Programe Dev\Resources\Programming_Learning\C++\Calendar\Debug\Calendar.exe

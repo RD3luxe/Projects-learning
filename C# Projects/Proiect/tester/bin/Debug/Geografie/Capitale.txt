@@ -1,0 +1,12 @@
+2;0;0;
+Care este capitala Canadei?; Quebec;Massachussets;Ottawa;Seattle;Ottawa;10;1
+Care este capitala Australiei?; Livingston;Syndey;Canberra;York;Canberra;10;1
+Lisabona este capitala carei tari?; Spania;Portugalia;Olanda;Austria;Portugalia;10;1
+Care este capitala Suediei?; Karlstad;Uppsala;Stockholm;Karlskoga;Stockholm;10;1
+Copenhaga este capitala carei tari?; Danemarca;Finlanda;Austria;Belgia;Danemarca;10;1
+Ulaanbaatar este capitala carei tari?; Iraq;Turkmenistan;Mongolia;Yutlanda;Mongolia;10;1
+Capitala Ungariei este?; Viena;Venetia;Budapesta;Varsovia;Budapesta;10;1
+Capitala Norvegiei este?; Nantes;Oslo;Trondheim;Urbino;Oslo;10;1
+Haga este capitala carei tari?; Belgia;Elvetia;Olanda;Portugalia;Olanda;10;1
+Care este capitala Statelor Unite?; New York;Boston;Seattle;Washington;Washington;10;1
+

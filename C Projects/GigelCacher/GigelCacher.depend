@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516048435 source:f:\programe dev\resources\programming learning\c\gigelcacher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bmp_header.h"
+
+1450325408 f:\programe dev\resources\programming learning\c\gigelcacher\bmp_header.h
+

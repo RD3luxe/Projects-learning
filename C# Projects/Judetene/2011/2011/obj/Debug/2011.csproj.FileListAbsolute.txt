@@ -1,0 +1,9 @@
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2011\2011\bin\Debug\2011.exe.config
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2011\2011\bin\Debug\2011.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2011\2011\bin\Debug\2011.pdb
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2011\2011\obj\Debug\2011.csprojResolveAssemblyReference.cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2011\2011\obj\Debug\_2011.Form1.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2011\2011\obj\Debug\_2011.Properties.Resources.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2011\2011\obj\Debug\2011.csproj.GenerateResource.Cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2011\2011\obj\Debug\2011.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2011\2011\obj\Debug\2011.pdb

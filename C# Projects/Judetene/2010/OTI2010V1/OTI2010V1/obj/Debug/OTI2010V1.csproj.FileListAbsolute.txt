@@ -1,0 +1,9 @@
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V1\OTI2010V1\bin\Debug\OTI2010V1.exe.config
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V1\OTI2010V1\obj\Debug\OTI2010V1.csprojResolveAssemblyReference.cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V1\OTI2010V1\obj\Debug\OTI2010V1.main.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V1\OTI2010V1\obj\Debug\OTI2010V1.Properties.Resources.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V1\OTI2010V1\obj\Debug\OTI2010V1.csproj.GenerateResource.Cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V1\OTI2010V1\bin\Debug\OTI2010V1.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V1\OTI2010V1\bin\Debug\OTI2010V1.pdb
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V1\OTI2010V1\obj\Debug\OTI2010V1.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V1\OTI2010V1\obj\Debug\OTI2010V1.pdb

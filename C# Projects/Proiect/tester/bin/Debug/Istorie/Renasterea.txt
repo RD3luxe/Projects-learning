@@ -1,0 +1,12 @@
+2;0;0;
+Care nu este o opera a lui Leonardo da Vinci?; Mona Lisa;Cina cea de Taina;Nasterea lui Venus;Omul Vitruvian;Nasterea lui Venus;10;1
+Care din urmatorii nu este un scriitor al Renasterii?; William Shakespeare;Thomas Moore;Francesco Petrarch;John Keats;John Keats;10;1
+Prima Biblie a fost printata in ce an?; 1437;1462;1444;1455;1455;10;1
+Cine a desenat o schita a unei masinarii de zbor in 1492?; Donatello;Botticelli;da Vinci;Michelangelo;da Vinci;10;1
+Care din urmatorii nu a sustinut artistii din perioada Renasterii?; Regele Francis I al Frantei;Papa Iulius al II-lea;Regele Richard al Angliei;Imparatul Charles al V-lea;Regele Richard al Angliei;10;1
+Care din urmatoarele nu era un oras-stat Italian in Renastere?; Florenta;Milan;Nantes;Urbino;Nantes;10;1
+Care stat nu era controlat Habsburgi in secolul al XVI-lea?; Anglia;Germania;America;Spania;Anglia;10;1
+Membrii familiei de Medici au devenit bancherii Papei in anul?; 1400;1424;1404;1414;1414;10;1
+Cine a pictat Capela Sistina din 1508-1512?; da Vinci;Michelangelo;Donatello;Botticelli;Michelangelo;10;1
+Cine a spus in 1512 ca Pamantul se invarte in jurul Soarelui?; Copernicus;Galileo;Amerigo;Columbus;Copernicus;10;1
+1,54,14;0

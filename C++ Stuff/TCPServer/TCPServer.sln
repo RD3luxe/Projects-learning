@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCPServer", "TCPServer\TCPServer.vcxproj", "{DEAECEF9-D947-4693-A35B-FA83DF8909FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAECEF9-D947-4693-A35B-FA83DF8909FC}.Debug|x64.ActiveCfg = Debug|x64
+		{DEAECEF9-D947-4693-A35B-FA83DF8909FC}.Debug|x64.Build.0 = Debug|x64
+		{DEAECEF9-D947-4693-A35B-FA83DF8909FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEAECEF9-D947-4693-A35B-FA83DF8909FC}.Debug|x86.Build.0 = Debug|Win32
+		{DEAECEF9-D947-4693-A35B-FA83DF8909FC}.Release|x64.ActiveCfg = Release|x64
+		{DEAECEF9-D947-4693-A35B-FA83DF8909FC}.Release|x64.Build.0 = Release|x64
+		{DEAECEF9-D947-4693-A35B-FA83DF8909FC}.Release|x86.ActiveCfg = Release|Win32
+		{DEAECEF9-D947-4693-A35B-FA83DF8909FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F36100F-30F1-4321-AEC8-1828D2434485}
+	EndGlobalSection
+EndGlobal

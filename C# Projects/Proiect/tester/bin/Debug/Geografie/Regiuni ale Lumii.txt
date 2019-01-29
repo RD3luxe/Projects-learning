@@ -1,0 +1,12 @@
+2;0;0;
+Care din urmatoarele tari face parte din Orientul Mijlociu?; Kazakstan;Lebanon;India;Moroco;Lebanon;10;1
+Care din urmatoarele tari nu face parte din Orientul Mijlociu?; Iordan;Turcia;Yemen;Etiopia;Etiopia;10;1
+Orientul Mijlociu cuprinde cate tari?; 15;20;17;11;17;10;1
+Ce tara nu face parte din America Centrala?; Panama;Belize;Guatemala;Bolivia;Bolivia;10;1
+America de Nord cuprinde cate tari?; 2;5;3;4;3;10;1
+Care este cea mai sudica tara din Asia?; India;Indonezia;Japonia;China;Indonezia;10;1
+Care este cea mai nordica tara din Asia?; China;Tibet;Rusia;Mongolia;Rusia;10;1
+Ce tara nu face parte din regiunea Tarilor Baltice?; Estonia;Letonia;Lituania;Finlanda;Finlanda;10;1
+Care este cea mai populata tara din Africa de Vest?; Niger;Nigeria;Benin;Sudan;Nigeria;10;1
+Cate tari cuprinde continentul Europa?; 51;54;48;44;51;10;1
+

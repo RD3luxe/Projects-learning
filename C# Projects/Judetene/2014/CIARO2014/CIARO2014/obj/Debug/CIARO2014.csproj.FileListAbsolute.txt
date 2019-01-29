@@ -1,0 +1,14 @@
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\bin\Debug\CIARO2014.exe.config
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\bin\Debug\CIARO2014.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\bin\Debug\CIARO2014.pdb
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.csprojResolveAssemblyReference.cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.Bursa.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.Properties.Resources.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.csproj.GenerateResource.Cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.pdb
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.Actiunile_mele.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.Grafic_profit.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2014\CIARO2014\CIARO2014\bin\Debug\CIARO2014.exe.config
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2014\CIARO2014\CIARO2014\obj\Debug\CIARO2014.pdb

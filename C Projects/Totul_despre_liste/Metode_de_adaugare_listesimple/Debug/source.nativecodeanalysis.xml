@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+      <FILENAME>source.c</FILENAME>
+      <LINE>80</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'nod_nou'. </DESCRIPTION>
+    <FUNCTION>adaugare_ordonata</FUNCTION>
+    <DECORATED>adaugare_ordonata</DECORATED>
+    <FUNCLINE>75</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>78</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'nod_nou' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>80</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'nod_nou' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+      <FILENAME>source.c</FILENAME>
+      <LINE>133</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function cauta_data appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>add_element_tastatura</FUNCTION>
+    <DECORATED>add_element_tastatura</DECORATED>
+    <FUNCLINE>114</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+      <FILENAME>source.c</FILENAME>
+      <LINE>124</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>String 'name_temp' might not be zero-terminated.</DESCRIPTION>
+    <FUNCTION>add_element_tastatura</FUNCTION>
+    <DECORATED>add_element_tastatura</DECORATED>
+    <FUNCLINE>114</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>116</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>116</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>This expression may not zero-terminate 'name_temp'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>119</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>120</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>121</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>123</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'name_temp' is an Output from 'scanf_s' (declared at c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h:1309)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>124</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'name_temp' is an Input to 'strlen' (declared at c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h:218)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>f:\programe dev\resources\programming learning\c\examensda\metode_de_adaugare_listesimple\metode_de_adaugare_listesimple\</FILEPATH>
+        <FILENAME>source.c</FILENAME>
+        <LINE>124</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'name_temp' is required to be zero-terminated by a SAL annotation on 'strlen'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

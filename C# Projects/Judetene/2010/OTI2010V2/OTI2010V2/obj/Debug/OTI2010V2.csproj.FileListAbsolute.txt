@@ -1,0 +1,12 @@
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\bin\Debug\OTI2010V2.exe.config
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\bin\Debug\OTI2010V2.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\bin\Debug\OTI2010V2.pdb
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\obj\Debug\OTI2010V2.csprojResolveAssemblyReference.cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\obj\Debug\OTI2010V2.CIA2010.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\obj\Debug\OTI2010V2.database.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\obj\Debug\OTI2010V2.Despre.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\obj\Debug\OTI2010V2.Properties.Resources.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\obj\Debug\OTI2010V2.Trigonometrie.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\obj\Debug\OTI2010V2.csproj.GenerateResource.Cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\obj\Debug\OTI2010V2.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2010\OTI2010V2\OTI2010V2\obj\Debug\OTI2010V2.pdb

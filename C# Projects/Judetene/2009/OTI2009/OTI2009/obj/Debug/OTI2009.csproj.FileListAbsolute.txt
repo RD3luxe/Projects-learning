@@ -1,0 +1,15 @@
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\bin\Debug\OTI2009.exe.config
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\bin\Debug\OTI2009.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\bin\Debug\OTI2009.pdb
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\obj\Debug\OTI2009.csprojResolveAssemblyReference.cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\obj\Debug\OTI2009.Calculator.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\obj\Debug\OTI2009.Main.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\obj\Debug\OTI2009.Properties.Resources.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\obj\Debug\OTI2009.Rotire.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\obj\Debug\OTI2009.csproj.GenerateResource.Cache
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\obj\Debug\OTI2009.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\obj\Debug\OTI2009.pdb
+C:\Users\D3luxe\Desktop\C# Learning\OTI\2009\OTI2009\OTI2009\obj\Debug\OTI2009.Database.resources
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2009\OTI2009\OTI2009\bin\Debug\OTI2009.exe.config
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2009\OTI2009\OTI2009\obj\Debug\OTI2009.exe
+C:\Users\D3luxe\Desktop\C# Learning\OTI\Judetene\2009\OTI2009\OTI2009\obj\Debug\OTI2009.pdb

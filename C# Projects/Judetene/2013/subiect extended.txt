@@ -1,0 +1,14 @@
+Realizeaza o aplicatie cu 4 formulare: unul de autentificare(main), unul de inregistrare, unul cu aplicatia propriu-zisa(puzzle) si un formular pentru admin
+formularul de inregistrare se deschide din cel de autentificare si permite inregistrarea unui utilizator de tip jucator.
+Formularul de autentificare permite accesul la aplicatie.
+-Pentru uilizatorii de tip "Admin" se permite:
+*deschiderea unui formular de inregistrare prin intermediul caruia se poate inregistra un utilizator de tip "admin" sau "jucator"
+*inserarea/stergerea unor fotografii in baza de date
+*vizualizarea rezultatelor jucatorilor in functie de nivel
+-Pentru utiliztorii de tip "jucator" se permite:
+*deschiderea formularului cu aplicatia propriu-zisa
+*aplicatia ii permite utilizatorului sa isi aleaga o imagine (dintre cele introduse de admin in Baza de date) si sa rezolve un puzzle cu acea imagine.
+*se va alege si o dificultate a rezolvarii 3x3 sau 4x4 sau 5x5
+*la inceperea jocului va porni un Timer care va calcula secundele pana la terminarea jocului
+*piesele puzzle-ului se vor muta cu drag&drop. Cand luam o piesa si o lasam peste alta, acestea isi vor schimba locurile
+*Cand se termina jocul, se opreste si timerul, iar numarul de secunde calculate pana in acel moment se stocheaza in baza de date, precum si dificultatea(3,4 sau 5) si data curenta.

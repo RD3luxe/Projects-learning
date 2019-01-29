@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\marian.tanasie\desktop\summer\i_did_something\lambda_functions\lambda_functions\source.cpp(10): warning C4244: 'argument': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+  Lambda_functions.vcxproj -> C:\Users\marian.tanasie\Desktop\summer\I_did_something\Lambda_functions\Debug\Lambda_functions.exe

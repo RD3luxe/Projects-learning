@@ -1,0 +1,16 @@
+Description for a console application:
+INPUT
+- read file „input.csv“ containing list of animals
+- read file „input_halter.xml“ containing list of owner
+- wait for a 16 digit key as keyboard input, and ask for reentry if key shorter than 16 digits.
+
+PROCESS
+- combine all data into an structured object by matching the animal to the owner and generate for each entry a 15-digit transaction number with a 16th additional „luhn modulo 10“ -check digit
+- encrypt the transaction number with the key entered as an AES encryption
+- display how many animals and how many owner have been imported
+
+DISPLAY AND OUTPUT
+- wait for ID as input from keyboard
+- after ID has been entered and submitted, display the animal and owner information for this ID; the display of the PLAINTEXT transaction number must only include the first 6 digits and the last 4 digits separated by three dots (xxxx xx … xxxx)
+- if ID 0 has been entered, display the complete list of animals and owners (sorted by animal name) including the ENCRYPTED transaction ID and generate an output file containing the complete list in JSON format file „output.json“ („the transaction ID must remain encrypted)
+- if „exit“ is entered, exit the application

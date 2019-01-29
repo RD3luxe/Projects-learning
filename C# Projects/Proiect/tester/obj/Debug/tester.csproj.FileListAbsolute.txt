@@ -1,0 +1,40 @@
+C:\Users\D3luxe\Desktop\Tester\Proiect\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+H:\Tester\Proiect\tester\obj\Debug\tester.exe
+H:\Tester\Proiect\tester\obj\Debug\tester.pdb
+H:\Tester\Proiect\tester\bin\Debug\tester.exe
+H:\Tester\Proiect\tester\bin\Debug\tester.pdb
+H:\Tester\Proiect\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+H:\Tester\Proiect\tester\obj\Debug\tester.Form1.resources
+H:\Tester\Proiect\tester\obj\Debug\tester.test_form.resources
+H:\Tester\Proiect\tester\obj\Debug\tester.Properties.Resources.resources
+H:\Tester\Proiect\tester\obj\Debug\tester.csproj.GenerateResource.Cache
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\obj\Debug\tester.exe
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\obj\Debug\tester.pdb
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\bin\Debug\tester.exe
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\bin\Debug\tester.pdb
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\obj\Debug\tester.Form1.resources
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\obj\Debug\tester.test_form.resources
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\obj\Debug\tester.Properties.Resources.resources
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\obj\Debug\tester.csproj.GenerateResource.Cache
+C:\Users\Alin\Desktop\atestat Xddd\Proiect\tester\obj\Debug\tester.MainMenu.resources
+C:\Users\Alin\Desktop\Proiect\tester\obj\Debug\tester.exe
+C:\Users\Alin\Desktop\Proiect\tester\obj\Debug\tester.pdb
+C:\Users\Alin\Desktop\Proiect\tester\bin\Debug\tester.exe
+C:\Users\Alin\Desktop\Proiect\tester\bin\Debug\tester.pdb
+C:\Users\Alin\Desktop\Proiect\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+C:\Users\Alin\Desktop\Proiect\tester\obj\Debug\tester.Form1.resources
+C:\Users\Alin\Desktop\Proiect\tester\obj\Debug\tester.test_form.resources
+C:\Users\Alin\Desktop\Proiect\tester\obj\Debug\tester.MainMenu.resources
+C:\Users\Alin\Desktop\Proiect\tester\obj\Debug\tester.Properties.Resources.resources
+C:\Users\Alin\Desktop\Proiect\tester\obj\Debug\tester.csproj.GenerateResource.Cache
+C:\Users\D3luxe\Desktop\Proiect\tester\obj\Debug\tester.exe
+C:\Users\D3luxe\Desktop\Proiect\tester\obj\Debug\tester.pdb
+C:\Users\D3luxe\Desktop\Proiect\tester\bin\Debug\tester.exe
+C:\Users\D3luxe\Desktop\Proiect\tester\bin\Debug\tester.pdb
+C:\Users\D3luxe\Desktop\Proiect\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+C:\Users\D3luxe\Desktop\Proiect\tester\obj\Debug\tester.Form1.resources
+C:\Users\D3luxe\Desktop\Proiect\tester\obj\Debug\tester.test_form.resources
+C:\Users\D3luxe\Desktop\Proiect\tester\obj\Debug\tester.MainMenu.resources
+C:\Users\D3luxe\Desktop\Proiect\tester\obj\Debug\tester.Properties.Resources.resources
+C:\Users\D3luxe\Desktop\Proiect\tester\obj\Debug\tester.csproj.GenerateResource.Cache

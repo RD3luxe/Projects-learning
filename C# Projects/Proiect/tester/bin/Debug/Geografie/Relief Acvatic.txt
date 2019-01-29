@@ -1,0 +1,11 @@
+2;0;0;
+Ce ocean se afla la est de Africa?; Pacific;Atlantic;Indian;Arctic;Indian;10;1
+Marea Mediterana se varsa in Oceanul?; Indian;Atlantic;Pacific;Arctic;Atlantic;10;1
+Unde se afla Golful Biscaya fata de Europa centrala? Vest;Est;Nord;Sud;Vest;10;1
+Cel mai mare ocean este:; Pacific;Atlantic;Indian;Arctic;Pacific;10;1
+Care din urmatoarele mari fac parte din Oceanul Atlantic?; M. Caraibilor;M. Filipinelor;M. Java;Golful Persic;M. Caraibilor;10;1
+Golful Aden face parte din ce ocean?; Pacific;Indian;Atlantic;Arctic;Indian;10;1
+Peninsula Crimeea se afla in ce mare?; M. Mediterana;M. Neagra; M. Baltica; M. Caspica;M. Neagra;10;1
+Ce mare se afla la est de Egipt?; M. Caspica;M. Moarta;M. Rosie;M. Mediterana;M. Rosie;10;1
+Care este granita de est a O. Pacific?; Europa si Africa;Australia si Asia;Americile;Europa si Asia;Americile;10;1
+Marea Adriatica face parte din ce alta mare?; M. Java;M. Mediterana;M. Manecii;M. Baltica;M. Mediterana;10;1
