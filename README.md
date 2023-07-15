@@ -1,2 +1,2 @@
 # Projects
-Some of my projects .
+Some of my old learning projects from University or older days.
